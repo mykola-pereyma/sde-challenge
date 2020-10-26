@@ -16,8 +16,8 @@ Souce code structure:
     |-main-|
            |-java-|
                   |-com.paytmlabs.challenge-|
-                                            |-MovingAverage.java (interface)
-                                            |-SimpleMovingAverage.java (implementation)
+                                            |-[MovingAverage.java](https://github.com/mykola-pereyma/sde-challenge/blob/master/src/main/java/com/paytmlabs/challenge/MovingAverage.java)
+                                            |-[SimpleMovingAverage.java (implementation)](https://github.com/mykola-pereyma/sde-challenge/blob/master/src/main/java/com/paytmlabs/challenge/SimpleMovingAverage.java)
 
     |-test-|
            |-java-|

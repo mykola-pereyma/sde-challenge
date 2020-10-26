@@ -9,8 +9,8 @@ Implementation
 Implementation of the simple moving average algorithm backed by queue (double-linked list) implementation.LinkedList implementation of the mentioned data structure allows efficient (constant time) adding elements for calculation as well as calculating moving average with predictable demand of memory to store N element in LinkedList object.
 Main classes contain extensive javadoc documentation that describes original intent and implementation details.
 
-Structure
-src-|
+Souce code structure:
+
     |-main-|
            |-java-|
                   |-com.paytmlabs.challenge-|
@@ -26,4 +26,4 @@ Build
 To build project and check that tests completed successfully run in parent dir: mvn clean package
 
 ## Design question: Design A Google Analytic like Backend System
-Please look into file [Google Analytics System Design] (./Google Analytics System Design.pdf)
+Please look into file [Google Analytics System Design](./Google Analytics System Design.pdf)

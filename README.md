@@ -1,3 +1,5 @@
+## [PaytmLabs SDE Challenge](https://github.com/PaytmLabs/SDEChallenge)
+
 ## Codding question: Simple Moving Average implementation
 Interface and implementation of the moving average algorithm
 

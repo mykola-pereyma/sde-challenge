@@ -11,13 +11,13 @@ Implementation
 Implementation of the simple moving average algorithm backed by queue (double-linked list) implementation.LinkedList implementation of the mentioned data structure allows efficient (constant time) adding elements for calculation as well as calculating moving average with predictable demand of memory to store N element in LinkedList object.
 Main classes contain extensive javadoc documentation that describes original intent and implementation details.
 
-Souce code structure:
+[Souce code structure](https://github.com/mykola-pereyma/sde-challenge/blob/master/src/):
 
     |-main-|
            |-java-|
                   |-com.paytmlabs.challenge-|
-                                            |-[MovingAverage.java](https://github.com/mykola-pereyma/sde-challenge/blob/master/src/main/java/com/paytmlabs/challenge/MovingAverage.java)
-                                            |-[SimpleMovingAverage.java (implementation)](https://github.com/mykola-pereyma/sde-challenge/blob/master/src/main/java/com/paytmlabs/challenge/SimpleMovingAverage.java)
+                                            |- MovingAverage.java (interface)
+                                            |- SimpleMovingAverage.java (implementation)
 
     |-test-|
            |-java-|

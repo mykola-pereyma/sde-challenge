@@ -26,4 +26,4 @@ Build
 To build project and check that tests completed successfully run in parent dir: mvn clean package
 
 ## Design question: Design A Google Analytic like Backend System
-Please look into file [Google Analytics System Design](./Google Analytics System Design.pdf)
+Please look into file [Google Analytics System Design](./Google_Analytics_System_Design.pdf)
